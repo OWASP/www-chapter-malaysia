@@ -7,6 +7,7 @@ level: 0
 region: Asia/Pacific
 country: Malaysia
 postal-code: 43200
+auto-migrated: 1
 
 ---
 
