@@ -50,5 +50,3 @@ This separate file is where you should place links to your Google Group and Meet
 {leaders.md}
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
